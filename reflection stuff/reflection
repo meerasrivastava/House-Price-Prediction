@@ -1,0 +1,3 @@
+I should have used Annaconda as it comes with built in data science features to help make it easier to code. I was more comfortable with the VS code IDE so I decided to create a virtual environment, install packages, and rack my brain for hours trying to figure out how to do make my code run. But the moment the scatter plot popped up on my screen, I knew it was all worth it. I attached the scatter plot as an image! After that I trained and visualised a predictive modelling algorithm for the data set.
+
+I also tested with a new set of data which I found on kaggle. This data was a 2017 house prices data set, for the area Whitefield located in Bangalore, India (where I live).
